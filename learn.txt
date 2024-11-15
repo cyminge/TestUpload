@@ -1,1 +1,6 @@
-我是测试
+5oiR5piv5rWL6K+VCg==
+
+adb shell
+su
+ps -A
+cat /proc/13264/maps  查找so是否加载到内存当中

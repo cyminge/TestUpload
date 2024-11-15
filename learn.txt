@@ -9,3 +9,8 @@ adb shell
 su
 ps -A
 cat /proc/13264/maps  查找so是否加载到内存当中
+
+adb shell
+su
+ps -A
+cat /proc/13264/maps  查找so是否加载到内存当中

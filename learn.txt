@@ -1,1 +1,1 @@
-{"xEbI5uK254":{"url":"xxx","isOk":false},"SRqHjzsR":{"url":"xxx","isOk":false}}
+{"xEbI5uK254":{"url":"http://192.168.1.22:70/waApi/apiReportedDetail","isOk":false},"SRqHjzsR":{"url":"http://192.168.1.22:70/waApi/apiReportedDetail","isOk":false}}

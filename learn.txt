@@ -1,1 +1,3 @@
-{"xEbI5uK254":{"url":"http://192.168.1.22:70/waApi/apiReportedDetail","isOk":false},"SRqHjzsR":{"url":"http://192.168.1.22:70/waApi/apiReportedDetail","isOk":false}}
+9Pmzjz5vIRgpzONO1vts+jVRW84GdlBOQxIoBYeHFGwtvDZ+gDe+BQFEcuQosVYFEJ/uvPU6GZ4U
+Yj0SYEX/qgSPisnYja4AVEZFe46/mhNtRlmkQwmpFXnJvsg86SSIdSxwj3/OB1cWjEvgRrgvTETV
+07Kv1EkgaoXe0sPiCknu8AI2RwbLCu76Fv+I5WjMR488sBSJJKQWQZEkYd+Rh9+zpGvEyH4l
